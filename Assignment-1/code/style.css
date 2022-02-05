@@ -7,9 +7,6 @@
     display:block;
     width: auto;
     }
-.red .content{
-    text-align: center;
-}    
 .yellow , .blue, .red{
         display: flex;
        }  
