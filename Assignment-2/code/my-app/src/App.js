@@ -29,8 +29,6 @@ return(
       <strong>{employee.age}</strong>
 
     </div>
-
-
 </div>
 
 );
@@ -38,6 +36,7 @@ return(
 }
 export default App;
 
+// id
 
 
 
