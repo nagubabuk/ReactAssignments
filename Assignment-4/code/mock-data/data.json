@@ -1,0 +1,31 @@
+{
+    "user":
+    [
+    {
+    "name":"Siva",
+    "location":"Bengaluru",
+    "likes":64,
+    "description": "Kick start your career",
+    "PostImage": "https://i.pinimg.com/736x/82/8e/cf/828ecfa8489de7872611017498b7ea35.jpg",
+    "date": 200222
+    },
+    {
+    "name":"Neeraj",
+    "location":"Pune",
+    "likes":30,
+    "description": "Sample Description",
+    "PostImage": "https://www.cheatsheet.com/wp-content/uploads/2021/09/Demon-Slayer-Season-2.jpeg",
+    "date": 200222
+    },
+    {
+    "name":"Rahul",
+    "location":"Hyderabad",
+    "likes":30,
+    "description": "Sample Description for Post",
+    "PostImage": "https://tvovermind.com/wp-content/uploads/2021/01/demon-slayer.png",
+    "date": 200222
+    }
+    ]
+}
+    
+// id
