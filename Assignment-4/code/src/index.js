@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import Postview from './Postview';
-import './Postview.css'
 import reportWebVitals from './reportWebVitals';
 
 

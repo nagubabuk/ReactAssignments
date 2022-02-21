@@ -1,100 +1,11 @@
- .site-container{
+.site-container{
   text-align: center;
 }
-*{
-margin: 0;
-padding:0;
+html {
+  font-size: 14px;
 }
-.header-part {
-  display: flex;
-  flex-direction: row;
-  height: 90px;
-  border: 1px solid black;
-  border-style: none;
-  box-shadow: 0px 5px 4px grey, 0px -5px 5px grey;
-  
-}
-
-#insta {
-  font-size: 55px;
-  margin:0; 
-  font-weight: bolder;
-  color: #1d8659;
-}
-.logo {
-  display: flex;  
-  margin-left:30px;
-}
-.logo-img {
-  margin-top:22px;
-  height: 45px;
-}
-.cam-logo {
-  margin-left: auto;
-  margin-top: 20px;
-  margin-right:20px;
-  height: 60px;
-  width:70px;
-  background-color: white;
-}
-.post-conrtainer{
-  
-  display: flex;
-  align-items: center;
-  justify-content: center;
-
-}
-#post-header{
-  display: flex;
-}
-
-#select{
-  height:30px;
-  width:40px;
-  margin-left:370px;
-  
-}
-.post{
-  margin:20px auto 20px auto;
-  border:0.2px solid;
-  display:block;
-  width:500px;
-  border-radius: 10px;
-  
-}
-.left{
-  margin-left:10px;
-  margin-bottom:10px;
-}
-.photos{
-height: 300px;
-width: 500px;
-}
-.likes ,.time{
-  display: inline-block;
-  padding-left:5px;
-}
-.heart,.tag{
-  height: 20px;
-  width: 20px;
-  margin:5px 10px 10px 5px;
-}
-.time{
-  float:right;
-}
-.likes{
-  float:left;
-}
-#comments{
-  clear:left;
-  display: block;
-  }
-.nos,.txt{
-    text-align: left;
-    margin-left: 10px;
-    padding-left: 5px;
-    margin-bottom: 10px;
-  }
-
-
-
+body {
+  line-height: 1.5;
+  color: black;
+  margin:0;
+} 
